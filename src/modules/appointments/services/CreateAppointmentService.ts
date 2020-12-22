@@ -31,7 +31,7 @@ class CreateAppointmentService {
     @inject('CacheProvider')
     private cacheProvider: ICacheProvider,
   ) {
-    // do nothing
+    // Do nothing
   }
 
   public async execute({
