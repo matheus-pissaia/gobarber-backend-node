@@ -1,4 +1,3 @@
-// virjievm0j43q90fr89qhf
 import { sign } from 'jsonwebtoken';
 import authConfig from '@config/auth';
 import { inject, injectable } from 'tsyringe';
